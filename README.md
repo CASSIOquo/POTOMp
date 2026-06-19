@@ -65,10 +65,12 @@
   <br>
   <div align="center">
   <img src="photo_5294435916002827699_y.jpg" alt="image" width="720" />
-
+<br>
+    <br>
   <div align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=CASSIOquo.CASSIOquo&left_color=black&right_color=black&left_text=___;"/>
-
+<br>
+    <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mountains+of+Christmas&duration=1&pause=1&color=8A8A8A&center=true&vCenter=true&repeat=false&width=200&lines=good+night+Chance" alt="Typing SVG" /></a>
 
 
